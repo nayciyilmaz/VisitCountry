@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">Visit Country</string>
+    <string name="details_name">DETAILS</string>
+    <string name="rezervation_name">REZERVASYON</string>
+    <string name="e_mail">E Mail</string>
+    <string name="mail_error">Enter a valid email address</string>
+    <string name="password">Password</string>
+    <string name="password_error">The password should be at least 6 characters</string>
+    <string name="rezervation_details">Rezervasyonunuz alınmıştır onaylamak için anahtarı etkin hale getirin ve çıkan ekranı onaylayın</string>
+
+
+    <string name="almanya_name">Almanya</string>
+    <string name="italya_name">İtalya</string>
+    <string name="ispanya_name">İspanya</string>
+    <string name="ingiltere_name">İngiltere</string>
+    <string name="fransa_name">Fransa</string>
+
+    <string name="fransa_capital">Paris</string>
+    <string name="ingiltere_capital">Londra</string>
+    <string name="ispanya_capital">Madrid</string>
+    <string name="italya_capital">Roma</string>
+    <string name="almanya_capital">Berlin</string>
+
+    <string name="almanya_structure">Reichstag Binası,Brandenburg kapısı,Köln Katedrali </string>
+    <string name="italya_structure">Kolezyum, Duomo di Milano,Floransa Katedrali</string>
+    <string name="ispanya_structure">Casa Batloo,Plaza de Espana,Casa Vicedens</string>
+    <string name="ingiltere_structure">Londra Kalesi,Wensmister Sarayı,York Minister</string>
+    <string name="fransa_structure">Notre Dame Katedrali,Louvre Müzesi,Notre Dame de Fourvière Bazilikası</string>
+
+    <string name="reichstag">Reichstag Binası</string>
+    <string name="brandenburg">Brandenburg Kapısı</string>
+    <string name="koln">Köln Katedreli</string>
+
+</resources>
